@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Leonardo Vidal 👋
 
-![iamlins GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlins&show_icons=true&theme=tokyonight)
+![iamlins GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlins&show_icons=true&theme=transparent)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlins&hide_progress=true)
 
 ### Tecnologias que eu uso no dia a dia
 
@@ -12,7 +14,11 @@
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
      <img align="center" alt="mk" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
+   
      
 </div><br/>
 
 Estudante de Desenvolvimento de sistemas, em constante aprimoramento das minhas habilidades. 
+
+
