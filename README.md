@@ -13,4 +13,6 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
      <img align="center" alt="mk" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
      
-</div>
+</div><br/>
+
+Estudante de Desenvolvimento de sistemas, em constante aprimoramento das minhas habilidades. 
