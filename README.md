@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Leonardo Vidal 👋
 
-![iamlins GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlins&show_icons=true&theme=transparent)
+![iamlins GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmNotLins&show_icons=true&theme=transparent)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlins&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmNotLins&hide_progress=true)
 
 ### Tecnologias que eu uso no dia a dia
 
