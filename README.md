@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/leonardolinsv">
+  <a href="https://linkedin.com/in/leonardolinsv">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"/>
   </a>
    <a href="https://instagram.com/iam.lins">
