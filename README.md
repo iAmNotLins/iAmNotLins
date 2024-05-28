@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iamnotlins/iamnotlins/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
