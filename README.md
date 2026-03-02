@@ -4,8 +4,7 @@
 
 ## 👾 Sobre mim
 
-Olá! Sou **Leonardo Vidal**, analista de TI em transição para o universo DevOps,
-baseado em **São Paulo, SP**. Apaixonado por automação, infraestrutura como código
+Olá! Sou **Leonardo Vidal**, analista de TI em transição para o universo DevOps. Apaixonado por automação, infraestrutura como código
 e cultura DevOps — aprendendo na prática, um container de cada vez.
 
 > *"Automatize o que é repetitivo, monitore o que é crítico."*
