@@ -19,9 +19,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iAmNotLins/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
+
 
 <br/>
 
