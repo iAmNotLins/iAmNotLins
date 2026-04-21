@@ -2,80 +2,43 @@
   README do perfil - Leonardo Vidal (@iAmNotLins)
   Cola este conteúdo no arquivo README.md do repo iAmNotLins/iAmNotLins
   
-  Se quiser manter a imagem do sistema solar que você já tem, substitui apenas
-  a linha "Leonardo Vidal — DevOps Jr" abaixo pela referência à imagem, ex:
-  ![Header](link-da-sua-imagem)
+  IMPORTANTE: pra os SVGs abaixo funcionarem, o repo `iAmNotLins/galaxy-profile`
+  precisa estar PÚBLICO. URLs raw.githubusercontent.com não funcionam em repos 
+  privados para visitantes não autenticados.
 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iAmNotLins/galaxy-profile/main/assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iAmNotLins/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iAmNotLins/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+<br/>
+👋 Sobre mim
+Olá! Sou Leonardo Vidal — analista de TI em transição para DevOps.
+Trabalho na Kirvano — tecnologia e pagamentos —
+atuando em governança de TI e apoiando a equipe de DevOps em
+pipelines, deploys e infraestrutura AWS.
+Base técnica:
+Gestão de TI (Uninove) · Técnico em Desenvolvimento de Sistemas (Etec)
+Formação em redes (Cisco Networking Basics · Alura)
+Stack do dia a dia:
+Linux · Docker · GitHub Actions · AWS (EC2, ALB, SSM) · Terraform (estudando) · Twingate · Cloudflare
+Estudando agora:
+AWS Cloud Practitioner · Terraform intermediário · OpenTelemetry
 
 <div align="center">
-
-# Leonardo Vidal
-### DevOps Jr · Transição do Suporte · Aprendendo em público
-
-*"Automatize o que é repetitivo, monitore o que é crítico."*
-
+  <a href="mailto:leonardolinsvv17@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leonardolinsvidal/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
 </div>
-
----
-
-## 👋 Sobre mim
-
-Analista de Suporte Técnico transicionando para DevOps na **[Kirvano](https://kirvano.com)**.
-Atuando em infra, CI/CD e cloud desde **março/2026**, em paralelo ao time de DevOps.
-
-Formação em **Gestão de TI (Uninove)**, base em redes, e quatro anos de suporte técnico
-como alicerce pra transição.
-
----
-
-## 🧰 Stack atual
-
-| Área | Ferramentas |
-|---|---|
-| 🐧 Sistemas | Linux (uso diário) |
-| 🐳 Containers | Docker · Docker Compose |
-| ⚙️ CI/CD | GitHub Actions |
-| 🏗️ IaC | Terraform *(estudando)* |
-| ☁️ Cloud | AWS — Practitioner em maio/2026 |
-| 🔐 Segurança / Rede | Twingate · Cloudflare |
-
----
-
-## 📚 Estudando agora
-
-- **AWS Certified Cloud Practitioner** — prova agendada para maio/2026
-- **Terraform** — módulos, remote state, Terragrunt
-- **OpenTelemetry** — observabilidade moderna
-
----
-
-## 🚀 Projetos em destaque
-
-Veja os repositórios pinados — todos documentados em português, com diagramas e decisões técnicas explicadas.
-
-Cada projeto constrói sobre o anterior:
-
-1. **metabase-deploy** — Deploy do Metabase em AWS com Docker, SSM e Twingate
-2. **metabase-infra-terraform** *(em breve)* — A mesma infra, agora via Terraform
-3. **github-actions-oidc-aws** *(em breve)* — CI/CD sem credencial estática
-4. **metabase-observability** *(em breve)* — CloudWatch + OpenTelemetry
-5. **zero-trust-lab** *(em breve)* — Arquitetura Zero Trust com Twingate + Cloudflare
-
----
-
-## 📬 Onde me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Vidal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
-[![GitHub](https://img.shields.io/badge/GitHub-iAmNotLins-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAmNotLins)
-
-</div>
-
----
-
-<div align="center">
-
-*Baseado em São Paulo · Disponível para trocas sobre DevOps, infra AWS e CI/CD*
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iAmNotLins&color=blueviolet&style=flat-square" alt="profile views" />
+</p>
