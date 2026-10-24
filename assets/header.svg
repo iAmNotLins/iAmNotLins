@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-label="Leonardo Lins Vidal, DevOps Junior, AWS, Terraform e GitHub Actions">
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#00ff41" stroke-opacity=".045"/></pattern><linearGradient id="g"><stop stop-color="#00ff41"/><stop offset="1" stop-color="#087e39"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="358" rx="14" fill="#080e0b" stroke="#167b38"/>
+<rect x="2" y="2" width="956" height="356" rx="14" fill="url(#grid)"/>
+<path d="M1 43H959" stroke="#167b38"/>
+<circle cx="23" cy="23" r="5" fill="#ff605c"/><circle cx="41" cy="23" r="5" fill="#ffbd44"/><circle cx="59" cy="23" r="5" fill="#00ca4e"/>
+<g font-family="DejaVu Sans Mono,monospace"><text x="85" y="28" fill="#7f9b87" font-size="12">iamnotlins@github: ~ $ ./profile-scan</text><text x="848" y="28" fill="#00ff41" font-size="12">● ONLINE</text>
+<rect x="24" y="65" width="238" height="270" rx="8" fill="#09140d" stroke="#184f2a"/>
+<text x="41" y="89" fill="#5d926c" font-size="11" letter-spacing="2">IDENTITY / CLOUD OPS</text>
+<path d="M63 142V245H117M148 142L179 245L211 142" stroke="url(#g)" stroke-width="11" fill="none"/>
+<path d="M45 122H240M45 267H240" stroke="#164f28"/>
+<text x="143" y="294" text-anchor="middle" fill="#00ff41" font-size="13">@iamnotlins</text><text x="143" y="315" text-anchor="middle" fill="#72927d" font-size="11">build · automate · learn</text>
+<text x="290" y="92" fill="#5d926c" font-size="11" letter-spacing="2">SYSTEM.INFO</text>
+<text x="290" y="139" fill="#e0ffea" font-size="30" font-weight="bold">Leonardo Lins Vidal</text>
+<text x="290" y="174" fill="#00ff41" font-size="18">DevOps Jr · Cloud &amp; Automation</text>
+<text x="290" y="216" fill="#70977c" font-size="13">FOCUS</text><text x="416" y="216" fill="#c6e1cf" font-size="14">AWS / IaC / CI/CD</text>
+<text x="290" y="247" fill="#70977c" font-size="13">STACK</text><text x="416" y="247" fill="#c6e1cf" font-size="14">Terraform · ECS · GitHub Actions</text>
+<text x="290" y="278" fill="#70977c" font-size="13">MINDSET</text><text x="416" y="278" fill="#c6e1cf" font-size="14">Aprender. Automatizar. Evoluir.</text>
+<text x="290" y="320" fill="#00ff41" font-size="13">$ construindo minha jornada em DevOps<tspan fill="#00ff41"> ▊</tspan></text></g></svg>
