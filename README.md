@@ -1,14 +1,23 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Leonardo Lins Vidal | DevOps Jr | AWS, Terraform, ECS e GitHub Actions" />
+  <img src="./assets/header.svg" width="100%" alt="Leonardo Lins Vidal: retrato em caracteres, DevOps Jr na Kirvano, experiência em AWS, CI/CD, Terraform e containers; CLF-C02, AIF-C01 e GH-200 concluídas; SAA em preparação." />
 </p>
 
+## `$ snake --eat=contributions`
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardolinsvidal">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:leonardolinsvv17@gmail.com">E-mail</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/iamnotlins">GitHub</a>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=iamnotlins&amp;theme=matrix&amp;style=snake" width="100%" alt="Snake Trail animado com as contribuições públicas de iamnotlins" />
 </p>
+
+## `$ ssh connect`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardolinsvidal">LinkedIn</a> ·
+  <a href="mailto:leonardolinsvv17@gmail.com">E-mail</a> ·
+  <a href="https://github.com/iAmNotLins/metabase-deploy">Projeto Metabase</a>
+</p>
+
+<details>
+<summary><strong>$ cat ~/profile.md</strong> · Experiências, formação e versão em texto</summary>
 
 ## `$ whoami`
 
@@ -101,3 +110,7 @@ Sempre aberto a trocar experiências sobre **AWS, automação e cultura DevOps**
 ---
 
 <p align="center"><sub>Aprender. Automatizar. Evoluir.</sub></p>
+
+</details>
+
+<p align="center"><sub>Visual inspirado no <a href="https://www.gitskins.com/templates/community-green-screen-rl3j">Green Screen</a> por <a href="https://www.gitskins.com">GitSkins</a> · retrato e painéis personalizados · Snake Trail por GitSkins.</sub></p>
