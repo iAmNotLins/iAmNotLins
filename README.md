@@ -1,120 +1,103 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iAmNotLins/galaxy-profile/main/assets/generated/galaxy-header.svg" width="850" alt="Leonardo Vidal — DevOps Jr">
-</p>
-
-<h1 align="center">Olá, eu sou o Leonardo Lins Vidal 👋</h1>
-
-<p align="center">
-  <b>Analista de Cloud, Infraestrutura e DevOps Jr · SRE</b><br>
-  ☁️ Cloud (AWS) &nbsp;•&nbsp; ⚙️ CI/CD &nbsp;•&nbsp; 🐳 Containers &nbsp;•&nbsp; 🔐 Zero Trust &nbsp;•&nbsp; 💰 FinOps
+  <img src="./assets/header.svg" width="100%" alt="Leonardo Lins Vidal | DevOps Jr | AWS, Terraform, ECS e GitHub Actions" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardolinsvidal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:leonardolinsvv17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=iAmNotLins&style=for-the-badge&color=0A66C2&label=Perfil+visto" alt="Profile views">
+  <a href="https://www.linkedin.com/in/leonardolinsvidal">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:leonardolinsvv17@gmail.com">E-mail</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/iamnotlins">GitHub</a>
 </p>
 
----
+## `$ whoami`
 
-### 👨‍💻 Sobre mim
+Sou **Leonardo Lins Vidal**, **DevOps Jr na Kirvano**, com foco em cloud AWS, infraestrutura e automação de entregas em produção.
 
-Atuo na **[Kirvano](https://kirvano.com)** (tecnologia e pagamentos, setor fintech) como **DevOps Jr**, com foco em **infraestrutura, automação e cloud na AWS** em ambiente de produção. Meu dia a dia envolve pipelines de CI/CD, containerização, migração de workloads para ECS e segurança de entrega — sempre buscando reduzir custo, tempo de build e superfície de ataque.
+Comecei na governança de TI e evoluí para DevOps na prática, resolvendo problemas reais. Hoje trabalho com pipelines de CI/CD, containers, migração de workloads para ECS e segurança da entrega, buscando reduzir tempo de build, tamanho de imagens e tarefas manuais.
 
-Comecei na governança de TI e evoluí para DevOps na prática, resolvendo problemas reais de produção. Forte interesse em **automação, IaC e cultura DevOps**, com Kubernetes e observabilidade no radar.
+## `$ cat ~/impact.log`
 
----
+<table>
+  <tr>
+    <th>⚡ Tempo de build</th>
+    <th>📦 Imagem de produção</th>
+    <th>🔐 Autenticação AWS</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>~6 min → ~3 min</strong><br/>~50% de redução</td>
+    <td align="center"><strong>235 MB → 115 MB</strong><br/>~51% de redução</td>
+    <td align="center"><strong>OIDC + IAM Roles</strong><br/>Sem chaves de longa duração nos pipelines</td>
+  </tr>
+</table>
 
-### 🚀 O que tenho construído na Kirvano
+## `$ ls -la ~/experience`
 
-- 🔄 **Migração de CI/CD** de microsserviços de AWS CodeBuild/CodePipeline para **GitHub Actions** (staging, QA e produção), com lint, testes, migrations automáticas e deploy paralelo em múltiplos serviços no **ECS**.
-- ⚡ **~50% menos tempo de build** (de ~6min para ~3min) usando cache BuildKit/GHA e Yarn 4.
-- 📦 **~51% menor imagem de produção** (235 MB → 115 MB) via **Dockerfile multi-stage**, imagem base pinada por digest e remoção de devDependencies/sourcemaps.
-- 🔐 **Segurança da entrega:** autenticação **OIDC** (sem chaves de longa duração), **SHA pinning** nas Actions e **IAM Roles de escopo mínimo** por ambiente.
-- ☁️ **Migração de Lambdas para ECS**, eliminando limitações do API Gateway e padronizando a stack.
-- 📊 **Metabase na AWS** com pipeline CI/CD unificado, deploy seguro (SSH Deploy Key + AWS SSM) e acesso via **Zero Trust** (Twingate/Cloudflare).
-- 🏷️ **Tagging de recursos AWS** e organização do ambiente como base para observabilidade e FinOps.
+**Kirvano · DevOps Jr**  
+Atuação em DevOps desde março de 2026 · promoção formal em julho de 2026.
 
----
+| Frente | O que construí |
+| :--- | :--- |
+| **CI/CD de microsserviços** | Migração de AWS CodeBuild/CodePipeline para GitHub Actions em staging, QA e produção, com lint, testes, migrations automáticas e deploy paralelo de serviços no ECS. |
+| **Otimização de builds** | Cache BuildKit/GHA e Yarn 4 para reduzir o tempo de build de aproximadamente 6 para 3 minutos. |
+| **Containers** | Dockerfile multi-stage, imagem base fixada por digest e remoção de devDependencies/sourcemaps: imagem de produção de 235 MB para 115 MB. |
+| **Segurança da entrega** | OIDC, Actions fixadas por SHA e IAM Roles com permissões mínimas por ambiente. |
+| **Infraestrutura AWS** | Migração de Lambda/API Gateway para ECS com Terraform em homologação e produção. |
+| **Metabase** | Implantação na AWS com CI/CD, SSH Deploy Key, AWS SSM e acesso via Zero Trust com Twingate/Cloudflare. |
+| **Organização e segurança** | Tagging de recursos AWS como base para observabilidade e FinOps; correção de vulnerabilidades em homologação. |
 
-### 🛠️ Stack & Ferramentas
+## `$ ls ~/stack`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iAmNotLins/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Stack em órbita">
-</p>
+| Área | Tecnologias e práticas |
+| :--- | :--- |
+| **Cloud e infraestrutura** | AWS · ECS · EC2 · Lambda · API Gateway · CloudWatch · SSM · IAM |
+| **Entrega e containers** | GitHub Actions · Docker · BuildKit · Git |
+| **Infraestrutura como código** | Terraform |
+| **Sistemas e automação** | Linux · Nginx · Shell Script · Python |
+| **Segurança e acesso** | OIDC · IAM Roles · Cloudflare · Twingate |
+| **Em aprofundamento** | Arquitetura AWS · Observabilidade · Kubernetes · FinOps |
 
-**Cloud & Infraestrutura**
+## `$ cat ~/certifications.txt`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+| Certificação / credencial | Status |
+| :--- | :--- |
+| **AWS Certified Cloud Practitioner · CLF-C02** | ✅ Concluída |
+| **AWS Certified AI Practitioner · AIF-C01** | ✅ Concluída |
+| **GitHub Actions · GH-200** | ✅ Concluída |
+| **AWS Serverless · microcredencial** | ✅ Concluída |
+| **AWS Certified Solutions Architect – Associate · SAA** | 📚 Em preparação |
 
-**CI/CD & Containers**
+<details>
+<summary><strong>$ cat ~/education.txt</strong> · Formação e estudos complementares</summary>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Gestão de TI** — UNINOVE
+- **Técnico em Desenvolvimento de Sistemas** — ETEC / Centro Paula Souza
+- **DevOps Pro** — GitHub Actions e Docker
+- **Scrum Foundation** — CertiProf
+- **Networking Basics** — Cisco
+- **Redes de Computadores** — Alura
 
-**IaC & Orquestração**
+</details>
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+## `$ ls ~/projects/public`
 
-**Sistemas, Redes & Linguagens**
+### [metabase-deploy](https://github.com/iAmNotLins/metabase-deploy)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Projeto público de implantação do Metabase, conectando infraestrutura e automação de deploy.
 
-**Segurança & Zero Trust**
+## `$ tail -f ~/learning.log`
 
-![OIDC](https://img.shields.io/badge/OIDC-EB5424?style=for-the-badge&logo=openid&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Twingate](https://img.shields.io/badge/Twingate_(Zero_Trust)-000000?style=for-the-badge&logoColor=white)
+- **Próxima certificação:** AWS Solutions Architect – Associate.
+- **Arquitetura:** entender os requisitos e as escolhas por trás de cada serviço AWS.
+- **Observabilidade:** conectar métricas, logs e alertas ao diagnóstico de problemas.
+- **Evolução contínua:** aprofundar IaC, Kubernetes e práticas de confiabilidade.
 
----
+## `$ ssh connect`
 
-### 📜 Certificações
+Sempre aberto a trocar experiências sobre **AWS, automação e cultura DevOps**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-AIF--C01-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified AI Practitioner (AIF-C01)">
-  <img src="https://img.shields.io/badge/GitHub%20Actions%20Certified-GH--200-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Certified (GH-200)">
-</p>
-
-- ✅ **AWS Certified AI Practitioner** (AIF-C01) — AWS
-- ✅ **GitHub Actions** (GH-200) — GitHub/Microsoft
-- 🔄 **AWS Certified Cloud Practitioner** (CLF-C02) — *em preparação*
-- 📚 Complementares: DevOps Pro (GitHub Actions & Docker), Scrum Foundation (CertiProf), Networking Basics (Cisco), Redes de Computadores (Alura)
-
----
-
-### 🎓 Formação
-
-- 🎓 **Gestão de TI** — UNINOVE
-- 🔧 **Técnico em Desenvolvimento de Sistemas** — ETEC / Centro Paula Souza
-- 🌐 **Redes de Computadores** — Cisco · Alura
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iAmNotLins&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmNotLins&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAmNotLins&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-</p>
+**[LinkedIn](https://www.linkedin.com/in/leonardolinsvidal)** · **[E-mail](mailto:leonardolinsvv17@gmail.com)** · **[GitHub](https://github.com/iamnotlins)**
 
 ---
 
-<p align="center">
-  <i>💬 Sempre aberto a trocar sobre AWS, automação e cultura DevOps.</i>
-</p>
+<p align="center"><sub>Aprender. Automatizar. Evoluir.</sub></p>
