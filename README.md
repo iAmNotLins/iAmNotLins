@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Leonardo Lins Vidal: retrato em caracteres, DevOps Jr na Kirvano, experiência em AWS, CI/CD, Terraform e containers; CLF-C02, AIF-C01 e GH-200 concluídas; SAA em preparação." />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Leonardo Lins Vidal: retrato em caracteres, DevOps Jr na Kirvano, experiência em AWS, CI/CD, Terraform e containers; CLF-C02, AIF-C01 e GH-200 concluídas; SAA em preparação." />
 </p>
 
 ## `$ snake --eat=contributions`
@@ -114,3 +114,4 @@ Sempre aberto a trocar experiências sobre **AWS, automação e cultura DevOps**
 </details>
 
 <p align="center"><sub>Visual inspirado no <a href="https://www.gitskins.com/templates/community-green-screen-rl3j">Green Screen</a> por <a href="https://www.gitskins.com">GitSkins</a> · retrato e painéis personalizados · Snake Trail por GitSkins.</sub></p>
+
