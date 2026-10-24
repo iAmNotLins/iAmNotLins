@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="Leonardo Lins Vidal: retrato em caracteres, DevOps Jr na Kirvano, experiência em AWS, CI/CD, Terraform e containers; CLF-C02, AIF-C01 e GH-200 concluídas; SAA em preparação." />
+  <img src="https://raw.githubusercontent.com/iAmNotLins/iAmNotLins/3c3cf3b6e7b2f9292b1d039cd12683eb0941f721/assets/header.svg" width="100%" alt="Leonardo Lins Vidal: retrato em caracteres, DevOps Jr na Kirvano, experiência em AWS, CI/CD, Terraform e containers; CLF-C02, AIF-C01 e GH-200 concluídas; SAA em preparação." />
 </p>
 
 ## `$ snake --eat=contributions`
